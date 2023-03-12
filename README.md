@@ -12,7 +12,7 @@ Cara Menggunakan
 Clone repository ini ke dalam komputer Anda.
 bash
 Copy code
-git clone https://github.com/<Johalfata>/<slide-seminar-proposal>.git
+git clone https://github.com/Johalfata/slide-seminar-proposal.git
 
 Pilih folder yang sesuai dengan kebutuhan presentasi Anda.
 Edit file presentasi dengan menggunakan editor teks favorit Anda. Slide presentasi ditulis menggunakan bahasa markup HTML.
